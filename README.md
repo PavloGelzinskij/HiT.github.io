@@ -1,1 +1,1 @@
-# HiT.github.io
+# hit-first-project.github.io
